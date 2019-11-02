@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="name">Looi Dong Sin</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        I am Looi Dong Sin and I am chonky. \nWong Xin Wei is a chonk. \n\nLorem ipsum dolor sit amet, \nconsectetur adipisicing elit. At atque consequuntur cumque distinctio est magnam quod sint sit veniam voluptatibus. Amet aut blanditiis deserunt eum exercitationem inventore nobis omnis repudiandae.
+        \n\n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus asperiores blanditiis dicta dolore dolorem doloremque doloribus dolorum eum ex facere, impedit in incidunt ipsam itaque libero nemo nesciunt nobis nostrum perspiciatis, quibusdam quidem repellat sed sunt tempore tenetur velit voluptate! Animi asperiores labore quos ullam! Amet doloribus dolorum, ipsum officia quae quos rerum sequi? At cum dignissimos ducimus excepturi facere fugiat harum hic in iure iusto, nam omnis praesentium quasi totam ullam velit veniam. Debitis dicta dolores ea eaque expedita facere illo maiores molestias natus neque nihil, nostrum odit porro quidem quis quo reprehenderit totam vitae voluptas voluptatem voluptates!
+    </string>
+    <string name="star_description">Yellow star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
